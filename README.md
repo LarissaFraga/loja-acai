@@ -1,4 +1,5 @@
 # LojaAcai
+Este projeto é o front-end de uma loja que vende açaí, sendo assim o usuário poderá escolher as opções do produto.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.3.
 
